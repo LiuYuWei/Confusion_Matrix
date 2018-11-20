@@ -1,4 +1,4 @@
-from sklearn import cross_validation, preprocessing, metrics
+from sklearn import metrics
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score, confusion_matrix
 
